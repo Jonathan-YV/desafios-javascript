@@ -19,7 +19,7 @@ function fizzBuzz(val){
     if (val % 3 === 0){
         return 'Fizz'
     }
-    if (val % 5 ===0){
+    if (val % 5 === 0){
         return 'Buzz'
     }
     return val
